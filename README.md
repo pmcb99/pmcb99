@@ -1,16 +1,31 @@
-## Hi there 👋
+# **Paul McBrien** 👋  
+I'm Paul McBrien, a software engineer from Ireland, having worked in Silicon Valley and with the Viturbi Startup Garage incubator in Los Angeles in the past.
 
-<!--
-**pmcb99/pmcb99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **About Me**
+- **Name**: Paul McBrien  
+- **Languages**: TypeScript/NodeJS, Python are my main backend languages - React for frontend
 
-Here are some ideas to get you started:
+## **What I Do**
+- 🌍 **Software Engineer Team Lead**, Dublin  
+- 💣 Previously worked at startups and **Listful.AI Software Co**, and **NSAI**  
+- 🎓 MSc in Computer Science (AI) and BSc in Applied Physics, both from Dublin City University
+- 🧠 Passionate about distributed systems, automation, and AI security applicatons
+- 📝 Dedicated to delivering high-performance, secure, and scalable solutions across projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **My Interests**
+- ❤️ Exploring distributed systems, automation, and cryptography, and AI
+- ✨ Enthusiastic about Typescript, NodeJS, Python and databases
+- 🌍 Writing and contributing to academic research and open-source projects (such as Odmantic and SQLModel)
+- 📘 Researching ways to optimize network management systems and AI pipelines
+- 🔗 Currently interested in disaster-resistant technologies - currently implementing **Kademlia** for distributed hash tables
+
+## **Some Of My Work (Research)**
+- 📄 **GSAFE**: A novel framework in video using interpretable and privacy-preserving feature extraction. Key security contributions:  
+  - Resilience to detection evasion attacks such as image transformations.
+  - Enhanced privacy with minimal feature leakage (e.g., 32-bit embeddings).  
+  - Computational efficiency, outperforming traditional methods by 74% in feature extraction speed.  
+- 📄 **AI**: Finetuning small LLMs for secure, ultra fast local processing 
+
+## **Socials & Portfolio**
+- 🟦 [LinkedIn](https://www.linkedin.com/in/paul-mc-brien/)  
+- 🐙 [GitHub](https://github.com/pmcb99)  
