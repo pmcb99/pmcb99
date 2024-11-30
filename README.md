@@ -28,4 +28,4 @@ I'm Paul McBrien, a software engineer from Ireland, having worked in Silicon Val
 
 ## **Socials & Portfolio**
 - 🟦 [LinkedIn](https://www.linkedin.com/in/paul-mc-brien/)  
-- 🐙 [GitHub](https://github.com/pmcb99)  
+- 🐙 [GitHub]([https://github.com/pmcb99](https://www.linkedin.com/in/paul-mcbrien/))  
