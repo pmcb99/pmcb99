@@ -6,8 +6,10 @@ I'm Paul McBrien, a software engineer from Ireland, having worked in Silicon Val
 - **Languages**: TypeScript/NodeJS, Python are my main backend languages - React for frontend
 
 ## **What I Do**
+- Owner of [shovelstone.ie](https://shovelstone.ie)  
+- Designed [drsolarandelectrical.ie](https://drsolarandelectrical.ie)
 - 🌍 **Software Engineer Team Lead**, Dublin  
-- 💣 Previously worked at startups and **Listful.AI Software Co**, and **NSAI**  
+- 💣 Previously worked at startup **Listful.AI Software Co**, and **NSAI**  
 - 🎓 MSc in Computer Science (AI) and BSc in Applied Physics, both from Dublin City University
 - 🧠 Passionate about distributed systems, automation, and AI security applicatons
 - 📝 Dedicated to delivering high-performance, secure, and scalable solutions across projects  
