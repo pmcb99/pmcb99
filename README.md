@@ -1,4 +1,5 @@
-I’m Paul McBrien, a software engineer from Ireland. I’ve worked with startups in Silicon Valley and previously collaborated with the Viterbi Startup Garage in Los Angeles. Currently working for Fin.ai
+# Paul McBrien
+I’m Paul McBrien, a software engineer from Ireland. I’ve worked with startups in Silicon Valley and previously collaborated with the Viterbi Startup Garage in Los Angeles. Currently working for Fin.ai. Love to travel, drink coffee and music
 
 ## About Me
 
